@@ -1,1 +1,1 @@
-# Responsive-Pricetable
+# Responsive-PriceTable
